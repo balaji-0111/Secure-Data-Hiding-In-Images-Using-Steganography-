@@ -35,21 +35,27 @@ Clone this repository to your local machine:
 git clone https://github.com/yourusername/image-steganography.git
 
 2. Navigate to the Project Directory
+```bash
 cd image-steganography
+```
 
-3. Add Your Image
+4. Add Your Image
 Place your image file (e.g., mypic.jpg) in the project directory.
 
-4. Run the Script
+5. Run the Script
 Execute the script to start the steganography process:
+```bash
 python steganography.py
+```
 
 ## 🖥️ Usage
 
 Encrypting a Message
 
 1. Run the script:
+```bash
 python steganography.py
+```
 
 2. Enter your secret message when prompted.
 
@@ -60,7 +66,9 @@ python steganography.py
 Decrypting a Message
 
 1. Run the script again:
+```bash
 python steganography.py
+```
 
 2. Enter the passcode used during encryption.
 
@@ -68,12 +76,12 @@ python steganography.py
 
 ## 🧑‍💻 Example
 
-Enter secret message: Hello, World! 🌍
+Enter secret message: Hello, World!
 Enter a passcode: mypassword
 Encrypted image saved as encryptedImg.jpg
 
 Enter passcode for Decryption: mypassword
-Decrypted message: Hello, World! 🌍
+Decrypted message: Hello, World!
 
 ## 🛡️ Security Notes
 
