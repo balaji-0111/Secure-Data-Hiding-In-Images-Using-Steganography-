@@ -25,7 +25,7 @@ Install the required libraries using:
 
 ```bash
 pip install opencv-python-headless
-bash```
+```
 
 ## 🚀 Getting Started
 
