@@ -22,8 +22,9 @@ To run this project, you'll need:
 - **OpenCV** (`opencv-python-headless`) 📦
 
 Install the required libraries using:
-```bash
+
 pip install opencv-python-headless
+
 
 
 🚀 Getting Started
