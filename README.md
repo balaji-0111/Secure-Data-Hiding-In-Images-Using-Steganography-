@@ -18,8 +18,11 @@ Welcome to the **Secure data hiding in images using steganography**! This projec
 To run this project, you'll need the following tools and libraries:
 
 1. Python 3.8 or Higher 🐍
-Make sure you have Python installed on your system. You can download it from the official website: python.org.
+Make sure you have Python installed on your system. You can download it from the official website:
 
+```bash
+python.org.
+```
 To check your Python version, run:
 
 2. OpenCV Library 📦
@@ -36,11 +39,12 @@ The hashlib library is used for password hashing. It comes pre-installed with Py
 
 5. Operating System 💻
    This project is compatible with:
+   
    -- Windows 🪟
    -- MacOS 🍏
    -- Linux 🐧
 
-6. Image File 🖼️
+7. Image File 🖼️
 You need an image file (e.g., mypic.jpg) to hide the secret message. Place the image in the same directory as the script.
 
 ## 🚀 Getting Started
