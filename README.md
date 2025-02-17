@@ -32,18 +32,13 @@ pip install opencv-python-headless
 The hashlib library is used for password hashing. It comes pre-installed with Python, so no additional installation is required.
 
 4. Random Library 🎲
-   
-The random library is used for selecting random pixels in the image. It is also included in Python's standard library.
+   The random library is used for selecting random pixels in the image. It is also included in Python's standard library.
 
-6. Operating System 💻
-   
-This project is compatible with:
-
--- Windows 🪟
-
--- MacOS 🍏
-
--- Linux 🐧
+5. Operating System 💻
+   This project is compatible with:
+   -- Windows 🪟
+   -- MacOS 🍏
+   -- Linux 🐧
 
 6. Image File 🖼️
 You need an image file (e.g., mypic.jpg) to hide the secret message. Place the image in the same directory as the script.
@@ -51,19 +46,18 @@ You need an image file (e.g., mypic.jpg) to hide the secret message. Place the i
 ## 🚀 Getting Started
 
 1. Clone the Repository
-
   Clone this repository to your local machine:
-git clone https://github.com/yourusername/image-steganography.git
+  git clone https://github.com/yourusername/image-steganography.git
 
 2. Navigate to the Project Directory
 ```bash
 cd image-steganography
 ```
 
-4. Add Your Image
+3. Add Your Image
 Place your image file (e.g., mypic.jpg) in the project directory.
 
-5. Run the Script
+4. Run the Script
 Execute the script to start the steganography process:
 ```bash
 python steganography.py
