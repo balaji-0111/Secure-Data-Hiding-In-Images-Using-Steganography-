@@ -1,6 +1,6 @@
-# 🖼️ Image Steganography Project 🔐
+# 🖼️ SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY 🔐
 
-Welcome to the **Image Steganography Project**! This project demonstrates how to hide secret messages within an image using steganography techniques. The message is encrypted using a **Caesar Cipher** and embedded into randomly selected pixels of the image. Perfect for secure communication! 🚀
+Welcome to the **Secure data hiding in images using steganography**! This project demonstrates how to hide secret messages within an image using steganography techniques. The message is encrypted using a **Caesar Cipher** and embedded into randomly selected pixels of the image. Perfect for secure communication! 🚀
 
 ---
 
