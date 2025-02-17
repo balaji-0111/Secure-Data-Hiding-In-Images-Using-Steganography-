@@ -15,17 +15,36 @@ Welcome to the **Secure data hiding in images using steganography**! This projec
 ---
 
 ## 🛠️ Requirements
+To run this project, you'll need the following tools and libraries:
 
-To run this project, you'll need:
+1. Python 3.8 or Higher 🐍
+Make sure you have Python installed on your system. You can download it from the official website: python.org.
 
-- **Python 3.8 or higher** 🐍
-- **OpenCV** (`opencv-python-headless`) 📦
+To check your Python version, run:
 
-Install the required libraries using:
+2. OpenCV Library 📦
+This project uses OpenCV for image processing. Install it using pip:
 
 ```bash
 pip install opencv-python-headless
 ```
+3. Hashing Library (SHA-256) 🔐
+The hashlib library is used for password hashing. It comes pre-installed with Python, so no additional installation is required.
+
+4. Random Library 🎲
+The random library is used for selecting random pixels in the image. It is also included in Python's standard library.
+
+5. Operating System 💻
+This project is compatible with:
+
+Windows 🪟
+
+macOS 🍏
+
+Linux 🐧
+
+6. Image File 🖼️
+You need an image file (e.g., mypic.jpg) to hide the secret message. Place the image in the same directory as the script.
 
 ## 🚀 Getting Started
 
