@@ -41,7 +41,9 @@ The hashlib library is used for password hashing. It comes pre-installed with Py
    This project is compatible with:
    
    -- Windows 🪟
+   
    -- MacOS 🍏
+   
    -- Linux 🐧
 
 7. Image File 🖼️
