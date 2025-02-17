@@ -50,7 +50,7 @@ python steganography.py
 
 ## 🖥️ Usage
 
-Encrypting a Message
+## 🔐Encrypting a Message
 
 1. Run the script:
 ```bash
@@ -63,7 +63,7 @@ python steganography.py
 
 4. The encrypted image will be saved as encryptedImg.jpg.
 
-Decrypting a Message
+## 🔓🔑Decrypting a Message
 
 1. Run the script again:
 ```bash
@@ -77,10 +77,13 @@ python steganography.py
 ## 🧑‍💻 Example
 
 Enter secret message: Hello, World!
+
 Enter a passcode: mypassword
+
 Encrypted image saved as encryptedImg.jpg
 
 Enter passcode for Decryption: mypassword
+
 Decrypted message: Hello, World!
 
 ## 🛡️ Security Notes
