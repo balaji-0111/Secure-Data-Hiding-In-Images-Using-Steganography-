@@ -80,7 +80,7 @@ Enter secret message: Hello, World!
 
 Enter a passcode: mypassword
 
-Encrypted image saved as encryptedImg.jpg
+Encrypted image saved as encrypted-Img.jpg
 
 Enter passcode for Decryption: mypassword
 
