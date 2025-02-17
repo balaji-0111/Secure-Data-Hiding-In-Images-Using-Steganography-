@@ -1,4 +1,4 @@
-# 🖼️ SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY 🔐
+# 🖼️SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY🔐
 
 Welcome to the **Secure data hiding in images using steganography**! This project demonstrates how to hide secret messages within an image using steganography techniques. The message is encrypted using a **Caesar Cipher** and embedded into randomly selected pixels of the image. Perfect for secure communication! 🚀
 
@@ -31,7 +31,7 @@ pip install opencv-python-headless
 
 1. Clone the Repository
 
-Clone this repository to your local machine:
+  Clone this repository to your local machine:
 git clone https://github.com/yourusername/image-steganography.git
 
 2. Navigate to the Project Directory
@@ -74,7 +74,7 @@ python steganography.py
 
 3. If the passcode is correct, the hidden message will be displayed.
 
-## 🧑‍💻 Example
+## 🖥️ Example
 
 Enter secret message: Hello, World!
 
