@@ -25,9 +25,7 @@ Install the required libraries using:
 
 pip install opencv-python-headless
 
-
-
-##🚀 Getting Started
+## 🚀 Getting Started
 
 1. Clone the Repository
 
@@ -44,7 +42,7 @@ Place your image file (e.g., mypic.jpg) in the project directory.
 Execute the script to start the steganography process:
 python steganography.py
 
-##🖥️ Usage
+## 🖥️ Usage
 
 Encrypting a Message
 
@@ -66,7 +64,7 @@ python steganography.py
 
 3. If the passcode is correct, the hidden message will be displayed.
 
-##🧑‍💻 Example
+## 🧑‍💻 Example
 
 Enter secret message: Hello, World! 🌍
 Enter a passcode: mypassword
@@ -75,7 +73,7 @@ Encrypted image saved as encryptedImg.jpg
 Enter passcode for Decryption: mypassword
 Decrypted message: Hello, World! 🌍
 
-##🛡️ Security Notes
+## 🛡️ Security Notes
 
 Password Strength: Use a strong passcode to ensure security.
 
