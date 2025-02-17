@@ -1,0 +1,6 @@
+1. Python 3.8 or Higher 🐍
+2. OpenCV Library 📦
+3. Hashing Library (SHA-256) 🔐
+4. Random Library 🎲
+5. Operating System 💻
+6. Image File 🖼️
