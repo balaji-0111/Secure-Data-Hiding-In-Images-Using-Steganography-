@@ -53,8 +53,7 @@ You need an image file (e.g., mypic.jpg) to hide the secret message. Place the i
 
 1. Clone the Repository
   Clone this repository to your local machine:
-  git clone https://github.com/balaji-0111/Secure-Data-Hiding-In-Images-Using-Steganography-
-.git
+  git clone https://github.com/balaji-0111/Secure-Data-Hiding-In-Images-Using-Steganography-.git
 
 2. Navigate to the Project Directory
 ```bash
